@@ -1,0 +1,68 @@
+body {
+  font-family: "Inconsolata", monospace;
+}
+
+#title {
+  background-color: #191A19;
+  color: #fff;
+}
+
+.navbar {
+  padding-bottom:4.5rem;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.title-image {
+  width: 40%;
+  text-align: center;
+  position: relative;
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 20%;
+  font-size: 80px;
+}
+
+.title-background {
+  background-color: #1E5128;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+  position: relative;
+
+}
+
+.download-button {
+  margin: 5% 3% 3% 0;
+}
+
+#study {
+padding: 2% 15% 5%;
+background-color: #4E9F3D;
+position: relative;
+color: #000;
+text-align: center;
+}
+
+.study-title {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+#projects {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #191A19;
+  color: #fff;
+}
+
+.card-header {
+  text-align: left;
+  color: #000;
+}
+
+.card-body {
+  text-align: left;
+  color: #000
+}
